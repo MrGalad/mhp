@@ -206,5 +206,21 @@
             }
         ],
         "category": "player"
+    },
+    "main.ma5c_reload": {
+        "sounds": [
+            {
+                "name": "ma5c_reload"
+            }
+        ],
+        "category": "player"
+    },
+    "main.ma5c_fire": {
+        "sounds": [
+            {
+                "name": "ma5c_fire"
+            }
+        ],
+        "category": "player"
     }
 }
