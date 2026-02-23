@@ -190,5 +190,21 @@
             }
         ],
         "category": "player"
+    },
+    "main.choso_fist": {
+        "sounds": [
+            {
+                "name": "choso_fist"
+            }
+        ],
+        "category": "player"
+    },
+    "main.choso_spikes": {
+        "sounds": [
+            {
+                "name": "choso_spikes"
+            }
+        ],
+        "category": "player"
     }
 }
